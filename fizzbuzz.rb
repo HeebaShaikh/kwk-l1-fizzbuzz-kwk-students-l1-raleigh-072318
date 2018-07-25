@@ -5,4 +5,4 @@ if number % 3 == 0
   puts "Fizz"
 end
 
-fizzbuzz (3)
+fizzbuzz(3)
